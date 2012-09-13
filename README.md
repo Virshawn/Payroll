@@ -6,7 +6,7 @@ This is a simple Payroll app that you can run through terminal or your favorite 
 
 Of course you will need to change the line of code below to incorporate your username.
 
-reportFile = fopen("/Users/username/Desktop/A5File.txt", "wt");
+    reportFile = fopen("/Users/username/Desktop/A5File.txt", "wt");
 
 
 Contact: Me by Email <Virshawn@me.com> or find me on [twttr](http://www.twitter.com/virshawn).
