@@ -9,4 +9,4 @@ Of course you will need to change the line of code below to incorporate your use
     reportFile = fopen("/Users/username/Desktop/A5File.txt", "wt");
 
 
-Contact: Me by Email <Virshawn@me.com> or find me on [twttr](http://www.twitter.com/virshawn).
+Contact: Me by Email <mail@virshawn.com> or find me on [twttr](http://www.twitter.com/virshawn).
